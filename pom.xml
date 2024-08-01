@@ -15,7 +15,6 @@
 
 	<properties>
   		<sonar.organization>sapumalw</sonar.organization>
-		<sonar.projectKey>sapumalw_Simplest-Spring-Boot-Hello-World</sonar.projectKey>
  		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 
