@@ -6,11 +6,13 @@ on:
       - dev
       - stage
       - main
+      - master
   pull_request:
     branches:
       - dev
       - stage
       - main
+      - master
 
 jobs:
   sonarcloud:
