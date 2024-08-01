@@ -42,7 +42,12 @@
 			<groupId>io.projectreactor</groupId>
 			<artifactId>reactor-core</artifactId>
 		</dependency>
-
+		<!-- https://mvnrepository.com/artifact/com.stripe/stripe-java -->
+		<!-- <dependency>
+    			<groupId>com.stripe</groupId>
+    			<artifactId>stripe-java</artifactId>
+    			<version>26.5.1</version>
+		</dependency> -->
 		<!-- <dependency>
 			<groupId>ch.qos.logback</groupId>
 			<artifactId>logback-classic</artifactId>
