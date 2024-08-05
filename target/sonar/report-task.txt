@@ -3,5 +3,5 @@ projectKey=sapumalw_Simplest-Spring-Boot-Hello-World
 serverUrl=https://sonarcloud.io
 serverVersion=8.0.0.56210
 dashboardUrl=https://sonarcloud.io/dashboard?id=sapumalw_Simplest-Spring-Boot-Hello-World
-ceTaskId=AZEkKSaKQgu39yo7oRnb
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZEkKSaKQgu39yo7oRnb
+ceTaskId=AZEkKmseoEI-hiMZ-H9b
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZEkKmseoEI-hiMZ-H9b
