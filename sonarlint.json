@@ -1,0 +1,21 @@
+{
+  "server": {
+    "connectionId": "your-sonarcloud-connection-id"
+  },
+  "rules": {
+    "java:S100": {
+      "level": "error"
+    },
+    "java:S200": {
+      "level": "warning"
+    }
+  },
+  "files": {
+    "includes": [
+      "**/*.java"
+    ],
+    "excludes": [
+      "**/test/**"
+    ]
+  }
+}
