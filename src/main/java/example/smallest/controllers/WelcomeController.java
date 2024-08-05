@@ -15,7 +15,8 @@ public class WelcomeController {
 		
 		// helloo
 		int x = 10;
-		
+
+		int y = 20;
 		
 		return "Hello FUCKING World!!!"; //"application/json" mean this is a text not a redirect
 	}
