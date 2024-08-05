@@ -8,7 +8,6 @@ public class WelcomeController {
 	
 	@GetMapping(produces = "application/json")
 	public String helloWorld() {
-		int c = 90;
 		return "Hello FUCKING World!!!";
 	}
 }
