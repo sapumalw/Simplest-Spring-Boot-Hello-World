@@ -1,5 +1,8 @@
 #!/bin/sh
 
+# Make this script executable (if running in a Unix-like environment)
+chmod +x "$0"
+
 echo "Running pre-commit hook..."
 
 # Ensure the SonarCloud token is set
